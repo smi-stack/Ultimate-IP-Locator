@@ -73,5 +73,6 @@ def main():
     display_result(result)
 
 if __name__ == "__main__":
-    main()
+    main()python3 ultimate_ip_locator.py
+    
 
